@@ -1,0 +1,11 @@
+session_id,image_name,question,answer,feedback
+2bc221ac,pneumonia.jpeg,what do you see in this X-ray image?,"The X-ray image shows a frontal view of the chest, including visible ribs, the spine, and the outlines of the lungs and heart. The lungs appear mostly clear, allowing for the visibility of the rib structures. The heart is centrally located, and the diaphragm is visible at the bottom. The clavicles are also visible at the top of the image. No obvious abnormalities can be described with the visible structures; further analysis by a professional would be necessary for any diagnosis.",Helpful
+a8d49a26,pneumonia.jpeg, What visual patterns stand out?,"The X-ray shows several visual patterns:
+
+1. **Bilateral Symmetry**: The lungs, highlighted by darker regions, are symmetrical on either side of the spine.
+2. **Rib Patterns**: The ribs appear as evenly spaced, arching lines extending from the spine outwards on both sides.
+3. **Spinal Column**: The vertebrae are visible as a series of interconnected, lighter rectangular shapes down the center.
+4. **Diaphragm Curvature**: The diaphragm has a dome-like appearance at the base of the lungs.
+5. **Lung Fields**: They are darker due to air content, with interspersed lighter areas corresponding to vascular and structural elements.
+
+These patterns aid in the overall assessment of the X-ray image.",Helpful
